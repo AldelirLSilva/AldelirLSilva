@@ -2,6 +2,7 @@
 <h3 align="center">Apaixonado pelo que uma boa analise de dados é capaz de fazer!</h3>
 
 - 🔭 Atualmente estou trabalhando em projetos de analise estatistica **O que influencia no sucesso da conversão de uma campanha?**
+[Clique aqui e acesse o projeto!](https://github.com/AldelirLSilva/MarketingBancario)
 
 - 🌱 Atualmente estou aprendendo **Estatistica, Inferencia e Modelos Preditores**
 
