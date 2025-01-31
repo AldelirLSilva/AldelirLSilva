@@ -10,7 +10,7 @@
 
 - 📫 Voce me acha através do email **aldelirlsilva@outlook.com**
 
-- 📄 Procuro extrair tudo que os dados podem oferecer de valioso [linkedin.com/in/aldelirlsilva](linkedin.com/in/aldelirlsilva)
+- 📄 Procuro extrair tudo que os dados podem oferecer de valioso
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
